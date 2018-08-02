@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
+    <string name="question_text">90% of the world\'s opals come from Australia.</string>
+    <string name="question_verdict">True</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
 </resources>
