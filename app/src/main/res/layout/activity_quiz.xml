@@ -11,6 +11,7 @@
         android:id="@+id/question_text_view"
         android:layout_width="384dp"
         android:layout_height="wrap_content"
+        android:minHeight="128dp"
         android:gravity="center"
         android:padding="24dp"
         />
